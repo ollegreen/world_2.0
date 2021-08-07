@@ -12,5 +12,7 @@ We're creating a virtual society. A triangular one. People have three distinct v
 ### People
 * Names
 * Date of birth
-* Country
+* Country of origin 
+* Country of residence
+* Faces - Generated with AI
 * Personalities - The basic coffee-chat topics. However more conversational in terms of their views on technology. 
