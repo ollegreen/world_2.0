@@ -4,7 +4,7 @@
 # Store info in a pandas DF. 
 
 # Name
-import name
+import nam
 
 
 # Date of Birth
